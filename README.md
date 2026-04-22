@@ -30,6 +30,6 @@
 ## some stats
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=elhouse99&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elhouse99&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=elhouse99&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=068a4c&icon_color=068a4c&text_color=C9D1D9&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elhouse99&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=068a4c&icon_color=068a4c&langs_count=8" />
 </div>
