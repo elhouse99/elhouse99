@@ -1,7 +1,7 @@
 <img src="https://github.com/elhouse99/elhouse99/blob/main/elhouse99.png?raw=true" width="100%">
 <div align="left">
 
-## Josué Domínguez
+<h1>Josué Domínguez</h1>
 
 <ul>
   <li> software engineering student  </li>
