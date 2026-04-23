@@ -14,7 +14,6 @@
 ![C#](https://img.shields.io/badge/.NET-brightgreen?style=for-the-badge&logo=dotnet&logoColor=white&color=%23512BD4)
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
 ![TeX](https://img.shields.io/badge/LaTeX-blue?style=for-the-badge&logo=latex&logoColor=white&color=%23008080)
-![Octave](https://img.shields.io/badge/Octave-blue?style=for-the-badge&logo=octave&logoColor=white&color=%230790C0)
 
 <!-- GitHub analytics charts -->
 ## some stats
