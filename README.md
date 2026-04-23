@@ -1,21 +1,12 @@
-<img src="https://github.com/elhouse99/elhouse99/blob/main/elhouse99v2.png?raw=true" width="100%">
+<img src="https://github.com/elhouse99/elhouse99/blob/main/elhouse99.png?raw=true" width="100%">
 <div align="left">
 
 ## Josué Domínguez
+
 <ul>
   <li> software engineering student  </li>
   <li> academic and blogger enthusiast </li>
 </ul>
-
-<!-- What I'm doing nowadays -->
-## focus areas
-
-```diff
-+ Python for computational problem-solving (algorithms, data structures)
-+ Numerical computation and mathematical modeling
-+ Foundations in mathematics and probability
-+ Small systems development
-```
 
 <!-- List of frameworks -->
 ## i've looked into
@@ -24,7 +15,6 @@
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
 ![TeX](https://img.shields.io/badge/LaTeX-blue?style=for-the-badge&logo=latex&logoColor=white&color=%23008080)
 ![Octave](https://img.shields.io/badge/Octave-blue?style=for-the-badge&logo=octave&logoColor=white&color=%230790C0)
-
 
 <!-- GitHub analytics charts -->
 ## some stats
